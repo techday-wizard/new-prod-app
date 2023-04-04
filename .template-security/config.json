@@ -1,0 +1,6 @@
+{
+    "frameworks": {
+        "terraform": { "templateFilesPattern": "**/*.tf" },
+        "cloudformation": { "templateFilesPattern": "*(cloudformation|template|CloudFormation|Cloudformation|cloudFormation).*(yml|yaml|json)" }
+    }
+}

@@ -1,6 +1,6 @@
 {
   "frameworks": {
     "terraform": { "templateFilesPattern": "**/*(*.tf|*.tfvars)" },
-    "cloudformation": { "templateFilesPattern": "**/*(*.yml)" }
+    "cloudformation": { "templateFilesPattern": "**/*(*.md)" }
   }
 }
